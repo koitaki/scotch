@@ -1,0 +1,17 @@
+body {
+    margin: 0 50px;
+}
+
+.form-group {
+    padding-left: 20px;
+    margin-left: 20px;
+}
+
+.jumbotron {
+    padding-left: 20px;
+}
+
+.text-giant {
+    font-size: 40px;
+    padding-right: 50px;
+}
